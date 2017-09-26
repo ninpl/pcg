@@ -14,6 +14,9 @@ using System.Collections.Generic;
 
 namespace MoonAntonio
 {
+	/// <summary>
+	/// <para>Prueba de PCG.</para>
+	/// </summary>
 	public class PruebaPCG : MonoBehaviour
 	{
 		#region Variables Publicas
