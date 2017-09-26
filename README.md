@@ -11,7 +11,7 @@
 
 Unas pruebas para tocar los algoritmos procedurales. La explicacion detallada [aqui][1].
 
-![preview](https://github.com/MoonAntonio/pcg/blob/master/Res/001.gif?raw=true)
+![preview](https://github.com/MoonAntonio/pcg/blob/master/res/001.gif?raw=true)
 
 
 [1]: https://moonantonio.github.io/post/2017/dev/012/
