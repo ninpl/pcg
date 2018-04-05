@@ -13,5 +13,14 @@ Unas pruebas para tocar los algoritmos procedurales. La explicacion detallada [a
 
 ![preview](https://github.com/MoonAntonio/pcg/blob/master/res/001.gif?raw=true)
 
+---
+## ¿Como usar?
+
+* Descargar [Unity3D Engine][99]
+* Abrir el proyecto en la escena PCG Test o PCG Mazmorra
+* Ejecutar la escena
+
+[99]: https://unity3d.com
+
 
 [1]: https://moonantonio.github.io/post/2017/dev/012/
